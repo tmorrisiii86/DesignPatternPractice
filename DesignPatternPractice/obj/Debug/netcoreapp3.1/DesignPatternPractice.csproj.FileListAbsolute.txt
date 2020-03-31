@@ -1,0 +1,11 @@
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.exe
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.deps.json
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.runtimeconfig.json
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.runtimeconfig.dev.json
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.dll
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\bin\Debug\netcoreapp3.1\DesignPatternPractice.pdb
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\obj\Debug\netcoreapp3.1\DesignPatternPractice.csprojAssemblyReference.cache
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\obj\Debug\netcoreapp3.1\DesignPatternPractice.AssemblyInfoInputs.cache
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\obj\Debug\netcoreapp3.1\DesignPatternPractice.AssemblyInfo.cs
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\obj\Debug\netcoreapp3.1\DesignPatternPractice.dll
+C:\Users\tmorr\source\repos\DesignPatternPractice\DesignPatternPractice\obj\Debug\netcoreapp3.1\DesignPatternPractice.pdb
